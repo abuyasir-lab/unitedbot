@@ -1,1 +1,5 @@
 python-telegram-bot==20.6
+python-telegram-bot==20.6
+telethon==1.35.0
+asyncio
+psycopg2-binary
